@@ -1,0 +1,9 @@
+.imagen {
+    display: flex;
+}
+  
+  @media (max-width: 500px) {
+    .imagen {
+        display: none;
+    }
+  }

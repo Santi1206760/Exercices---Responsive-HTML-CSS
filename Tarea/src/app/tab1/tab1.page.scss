@@ -1,0 +1,9 @@
+ion-content.background {
+    --background: url(https://i.imgur.com/JKEacDb.jpeg);
+  }
+  
+  @media (max-width: 400px) {
+    ion-content.background {
+      --background: url(https://i.imgur.com/W68Jzgk.png);
+    }
+  }
